@@ -8,6 +8,7 @@ After we run the code, we conclude that Urban area has the highest total rides, 
 <br> Please see Figure 1 for details:
 ![PyBer_summary_DataFrame.png](Analysis/PyBer_summary_DataFrame.png)
 <br> Figure 1: PyBer_summary_DataFrame
+
 <br> As shown in Figure 1, the lowest result for total rides, total drivers, and total fares is Rural area. Yet, it has the highest average fare per ride and average fare per driver. This means it is more expensive per ride in the Rural area because the fares are high with less amount of drivers and rides.
 
 <br> The second part of this analysis is mainly focusing on the sum of weekly fares from 2019-01-01 to 2019-04-29. As we can see from Figure 2, Urban area has outperformed the city type each week. Also, Rural area has remained the least amount of fares, and Suburban has booked the second place for both analysis.
